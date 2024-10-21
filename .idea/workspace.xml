@@ -5,17 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f28c05a4-3092-4416-8427-2b932ca1dfef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Program/Strings/Find a String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Program/Strings/Mutations.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Program/Strings/Mutations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Program/Strings/Whats your name.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Program/Strings/capitalize.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Program/Strings/capitalize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Program/Strings/string split and join.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Program/Strings/string split and join.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Program/Strings/string validators.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Program/Strings/string validators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Program/Strings/whats your name.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
