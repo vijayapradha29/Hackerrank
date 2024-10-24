@@ -1,0 +1,12 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+n=int(input())
+# print(n)
+s=set(map(int,input().split()))
+# print(s)
+b=int(input())
+# print(b)
+c=set(map(int,input().split()))
+# print(c)
+z=s.union(c)
+# print(z)
+print(len(z))

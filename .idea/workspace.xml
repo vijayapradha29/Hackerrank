@@ -5,6 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f28c05a4-3092-4416-8427-2b932ca1dfef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python Program/Sets/Symmetric Difference.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Program/Sets/Symmetric Difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Program/Sets/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Program/Sets/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Program/Sets/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Program/Sets/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Program/Sets/set.difference()operation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Program/Sets/set.intersection() operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Program/Sets/set.symmetric_difference()operation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Program/Sets/set.symmetric_difference()operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Program/Sets/set.union() operation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Program/Sets/set.union() operation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
